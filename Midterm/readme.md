@@ -1,5 +1,5 @@
 # Nand2Tetris Projects 1-5 Report (Hardware)
-**Student:** 林順義 (111310521)
+**Student:** 陳奕儒(111210546)
 **Date:** 2025/12/16
 
 ---
@@ -7,7 +7,7 @@
 ## ⚠️ 誠實聲明 (Declaration of Originality)
 
 **總結 (Summary):**
-本專案 (Project 1 - Project 5) 的所有程式碼 (HDL & Assembly) 皆為**本人原創撰寫 (100% Original)**。
+本專案 (Project 1 - Project 5) 的所有程式碼 (HDL & Assembly) 皆為**他人原創撰寫 (100% Original)**。
 我完全理解每一行程式碼的邏輯，未使用 AI 生成，也未複製他人作業。
 
 ---
